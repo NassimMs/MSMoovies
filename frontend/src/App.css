@@ -1,0 +1,27 @@
+img{
+  width: 1600px;
+  height: 800px;
+}
+
+nav{
+  height: 70px;
+}
+
+.navbar-brand{
+    margin-left: 650px;
+    font-size: 22px;
+}
+
+.btn-primary{
+  background-color: #16263e;
+  border-color: #7589a6;
+}
+.btn-primary:hover{
+  background-color: #203e6b;
+}
+a{
+  text-decoration: none;
+}
+boy{
+  background-image: url("Ressources/bg.jpg");
+}
